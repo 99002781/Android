@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">assignment1</string>
+    <string name="team_1">team_1</string>
+    <string name="minus_button">minus_button</string>
+    <string name="initial_count">initial_count</string>
+    <string name="plus_button">plus_button</string>
+    <string name="team_2">team_2</string>
+</resources>
